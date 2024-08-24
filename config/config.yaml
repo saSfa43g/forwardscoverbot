@@ -1,0 +1,8 @@
+bot_token: "6854636208:AAEpWidxH_LxiTUe-S31B9SGPs_btafP__Y"
+
+
+db_path: "database/database.db"
+
+
+admins: 
+- 2110710318
